@@ -9,6 +9,9 @@ LIRcentral has co-funded between 2022-2024 by the European Union (European Regio
 
 An online, freely available Python Notebook for training/validating/saving/using ML methods for LIRcentral-related texts classification can be accessed online at [Google Colab](https://colab.research.google.com/drive/1HkmtTsTJDx9qNaI9vgEVtQOn0Qlx9vv7?usp=sharing).
 
+The file all_combined_abstracts.txt contains a corpus of 1544 abstracts related to autophagy. Compiled from PubMed abstracts describing LIR motif characterization used to curate the LIRcentral database (positive instances) and a disjoint, down-sampled set of PubMed entries mentioning the term 'Autophagy' (negative instances). This curpus can be used with the LIR_papers_MLscreen.ipynb notebook.
+
+
 ![picture](https://lircentral.eu/images/LIRcentral-FundedBy.png)
 
 
